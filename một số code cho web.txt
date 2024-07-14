@@ -1,0 +1,14 @@
+git add .
+git commit -m "Updated content"
+git push origin master
+
+(đẩy file đã cập nhập lên git hub)
+
+
+(đưa file mới lên)
+
+git init
+git remote add origin https://github.com/joskimthuan/thekeeperofmemory.git <tùy chỉnh links repositony>
+git add .
+git commit -m "Initial commit"
+git push -u origin main	
